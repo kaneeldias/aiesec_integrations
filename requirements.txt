@@ -1,0 +1,4 @@
+pandas==1.1.1
+oauth2client==4.1.3
+slack_sdk==3.5.1
+gspread==3.7.0
