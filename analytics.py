@@ -67,7 +67,7 @@ types = {
 }
 
 # Read EXPA access token from file
-f = open("expa_access_token.txt", "r")
+f = open("expa_access_token", "r")
 access_token = f.read()
 
 
