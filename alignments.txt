@@ -1,0 +1,223 @@
+<option data-id="11124" value="1340">Academy of Design</option>
+<option data-id="13406" value="1340">Academy of language skills and dramatic art</option>
+<option data-id="8985" value="221">Achievers Lanka Business School</option>
+<option data-id="14195" value="222">AIMS College</option>
+<option data-id="11863" value="872">Alliance Française de Kotte</option>
+<option data-id="13137" value="2175">Alliance Francaise De Matara</option>
+<option data-id="13420" value="2204">Alliance Francaise Kandy</option>
+<option data-id="11110" value="222">Alpha Business School</option>
+<option data-id="11125" value="1340">AMDT School of Creativity</option>
+<option data-id="11141" value="2204">American College Kandy Campus</option>
+<option data-id="10230" value="221">American College of Higher Education</option>
+<option data-id="14177" value="222">American Institute of Computer Technology</option>
+<option data-id="11615" value="872">Ananda College - Colombo</option>
+<option data-id="7999" value="221">ANC - American National College</option>
+<option data-id="13092" value="872">Anula Vidyalaya Nugegoda</option>
+<option data-id="13139" value="2175">APEX Business academy matara</option>
+<option data-id="11111" value="222">APIDM (Asia Pacific institute of digital marketing)</option>
+<option data-id="8723" value="222">APIIT - Colombo </option>
+<option data-id="11137" value="2204">APIIT Kandy Campus</option>
+<option data-id="11132" value="221">Aquinas University College</option>
+<option data-id="11147" value="2186">Asian Institute of Technology</option>
+<option data-id="13066" value="222">Asian International School Colombo</option>
+<option data-id="14182" value="222">Aspire business school - Dehiwala</option>
+<option data-id="14193" value="222">ASPIRE College of Higher Education - Colombo</option>
+<option data-id="14194" value="222">ASPIRE College of Higher Education - Colombo</option>
+<option data-id="11150" value="2188">Auston Campus Colombo</option>
+<option data-id="11112" value="872">Australian College Business Technology Institute- ACBT</option>
+<option data-id="11143" value="2204">Australian College of Business and Technology (ACBT)- Kandy</option>
+<option data-id="13094" value="872">Ave Maria Convent- Negombo</option>
+<option data-id="13432" value="2204">Badulla Central College, Badulla</option>
+<option data-id="11114" value="872">Bandaranaike Centre for International Studies</option>
+<option data-id="13125" value="2188">Bandaranaike International Diplomatic Training Institute	</option>
+<option data-id="13104" value="872">Bandarawela central college</option>
+<option data-id="14196" value="222">Benchmark Education Institute - Nugegoda</option>
+<option data-id="11618" value="1340">Bishops College - Colombo</option>
+<option data-id="11572" value="221">BMS Campus</option>
+<option data-id="13425" value="2204">Brighten Language Center(Eng), Kurunegala</option>
+<option data-id="13082" value="222">Bristol Institute of Business Management</option>
+<option data-id="11571" value="221">British College of Applied Studies(BCAS)- Colombo</option>
+<option data-id="11140" value="2204">British College of Applied Studies(BCAS) - Kandy</option>
+<option data-id="14189" value="221">British College of Applied studies (BCAS)- Mount Campus</option>
+<option data-id="11115" value="872">British Council</option>
+<option data-id="13419" value="2204">British Council Kandy</option>
+<option data-id="13149" value="2175">British council partner teaching center Matara</option>
+<option data-id="11105" value="222">British Informatics of Computer Technology</option>
+<option data-id="13409" value="1340">British School Colombo</option>
+<option data-id="11107" value="222">British Way English Academy</option>
+<option data-id="13424" value="2204">British way English Academy, Kurunegala</option>
+<option data-id="13097" value="872">Britsh Council colombo</option>
+<option data-id="14197" value="222">CADD Centre Lanka</option>
+<option data-id="13120" value="221">Cambridge Institute of Higher Education (CIHE)</option>
+<option data-id="14185" value="1340">Centrium Academics</option>
+<option data-id="10224" value="1340">CFPS Law School</option>
+<option data-id="13119" value="221">Chartered Institute of Personnel Management</option>
+<option data-id="13098" value="872">CINEC Campus</option>
+<option data-id="13421" value="2204">CIPM Kandy</option>
+<option data-id="13107" value="1340">City School of Architecture</option>
+<option data-id="11151" value="2188">Colombo Academy of Hospitality Management-CAHM</option>
+<option data-id="11104" value="222">Colombo Institute of Research and Psychology</option>
+<option data-id="11109" value="222">Colombo Institute of Tourism and Hospitality Management </option>
+<option data-id="11130" value="221">Colombo International Institute of Higher Education</option>
+<option data-id="11117" value="872">Colombo International Nautical and Engineering College- CINEC</option>
+<option data-id="13401" value="222">Colombo School of Construction Technology Pita-kotte</option>
+<option data-id="13413" value="221">Colombo South International College</option>
+<option data-id="13093" value="872">Devi Balika Vidyalaya Colombo</option>
+<option data-id="13427" value="2204">Dharmaraja College Kandy</option>
+<option data-id="13088" value="222">D.S. Senanayake Vidyalaya Colombo 7</option>
+<option data-id="11617" value="1340">East Asian International School - Colombo</option>
+<option data-id="11123" value="1340">Edulink International Campus</option>
+<option data-id="11146" value="2175">Esoft - Galle</option>
+<option data-id="10228" value="2204">ESOFT Metro Campus - Kandy</option>
+<option data-id="10227" value="221">ESOFT Metro Campus - Malabe</option>
+<option data-id="13131" value="2175">ESOFT Metro Campus Matara</option>
+<option data-id="13117" value="1340">Esol College</option>
+<option data-id="13415" value="2204">French & Leame Kandy</option>
+<option data-id="13129" value="2186">Gateway College, Dehiwala</option>
+<option data-id="13147" value="222">Gateway College International- Rajagiriya</option>
+<option data-id="11612" value="2204">Gateway College Kandy</option>
+<option data-id="13450" value="221">Genius School of  Professional Studies</option>
+<option data-id="14181" value="222">Global Institute of Project Management - Colombo</option>
+<option data-id="11113" value="872">Goethe Institute</option>
+<option data-id="13102" value="872">Good Shepherd convent Kandy</option>
+<option data-id="13426" value="2204">Hillwood College Kandy</option>
+<option data-id="13422" value="2204">Hindu Sansthan Srilanka (Hindi), Kurunegala</option>
+<option data-id="11616" value="872">Holy Cross college - Gampaha</option>
+<option data-id="13412" value="221">Holy Family Convent Colombo</option>
+<option data-id="11152" value="2188">Horizon Campus</option>
+<option data-id="13138" value="2175">Horizon Campus Matara center</option>
+<option data-id="13122" value="2188">Horizon International College- Malabe</option>
+<option data-id="11131" value="221">Human Resource Management Institute</option>
+<option data-id="11142" value="2204">ICBT Campus Kandy</option>
+<option data-id="8986" value="221">ICBT Colombo Campus</option>
+<option data-id="13135" value="2175">ICBT southern campus</option>
+<option data-id="14183" value="222">Icon business school - Colombo</option>
+<option data-id="13136" value="2175">IDM mathara campus</option>
+<option data-id="10232" value="2204">Imperial College Kandy</option>
+<option data-id="13121" value="2204">Imperial College of Business Studies</option>
+<option data-id="11134" value="221">Imperial Institute of Higher Education (IIHE)</option>
+<option data-id="7997" value="872">Informatics Institute of Technology- IIT</option>
+<option data-id="11135" value="221">Institute for Accounting Studies</option>
+<option data-id="11121" value="1340">Institute of Chemistry Ceylon</option>
+<option data-id="14180" value="222">Institute of Management and Leadership - IML</option>
+<option data-id="11129" value="221">Institute of Personel Management</option>
+<option data-id="13081" value="222">Institute of Software Engineering - IJSE</option>
+<option data-id="13078" value="222">Institute of Universal Higher studies</option>
+<option data-id="14190" value="2204">Internatioanl European campus</option>
+<option data-id="13400" value="222">KAATSU International University Malabe</option>
+<option data-id="13414" value="2204">Kandy Cambridge College</option>
+<option data-id="11609" value="2204">Kandy Girls’ High School</option>
+<option data-id="13417" value="2204">Kandy Language Center</option>
+<option data-id="13416" value="2204">Kingston English School, Kandy</option>
+<option data-id="13428" value="2204">Kingswood College Kandy</option>
+<option data-id="10231" value="1340">Kotelawala Defence University </option>
+<option data-id="11606" value="222">Ladies’ College</option>
+<option data-id="13451" value="221">Ladies college of Professional Studies</option>
+<option data-id="11133" value="221">Lanka Institute of Fashion Technology (LIFT)</option>
+<option data-id="13079" value="222">Lanka Nippon Biz Tech Institute</option>
+<option data-id="13109" value="1340">Law College</option>
+<option data-id="13405" value="1340">LEEDS International college Panadura</option>
+<option data-id="14192" value="222">Lifeway educational Institute</option>
+<option data-id="13127" value="2188">Londontec City Campus</option>
+<option data-id="13080" value="222">Louis Preston School of Travel and Tourism</option>
+<option data-id="13110" value="1340">Lyceum College Panadura</option>
+<option data-id="14174" value="222">Lyceum College Rathnapura</option>
+<option data-id="13084" value="222">Lyceum International School - Nugegoda</option>
+<option data-id="13096" value="872">Lyceum International School - Wattala</option>
+<option data-id="13103" value="872">Mahamaya Girls college Kandy</option>
+<option data-id="13113" value="1340">Mahanama College Colombo</option>
+<option data-id="11614" value="2175">Mahinda College - Galle</option>
+<option data-id="13430" value="2204">Maliyadeva Balika Vidyalaya Kurunegala</option>
+<option data-id="13429" value="2204">Maliyadeva College Kurunegala</option>
+<option data-id="13404" value="222">Matrix institute of information technology</option>
+<option data-id="11118" value="872">Mercury Institute of Management</option>
+<option data-id="13115" value="1340">Metropolitan College Mount Lavinia</option>
+<option data-id="14176" value="222">Mod'Art Paris Colombo</option>
+<option data-id="11607" value="221">Musaeus College</option>
+<option data-id="13085" value="222">Nalanda College Colombo</option>
+<option data-id="11148" value="2186">National Institute of Business Management</option>
+<option data-id="13089" value="872">National Institute of Business Management - Kurunegala</option>
+<option data-id="13090" value="872">National Institute of Education (NIE)</option>
+<option data-id="11126" value="1340">Nawaloka College of Higher Studies</option>
+<option data-id="13126" value="2188">NEXT campus- Colombo</option>
+<option data-id="14179" value="222">NIBM</option>
+<option data-id="11139" value="2204">NIBM Kandy Centre</option>
+<option data-id="13130" value="2175">NIBM Matara Centre</option>
+<option data-id="11116" value="872">NISD- National Institute of Social Development</option>
+<option data-id="13418" value="2204">Nivaya International, Kandy</option>
+<option data-id="11120" value="1340">Northshore College of Business and Technology</option>
+<option data-id="10226" value="1340">North Shore College of Business & Technology</option>
+<option data-id="7674" value="2186">NSBM Green University</option>
+<option data-id="13452" value="221">Openarc Campus</option>
+<option data-id="13369" value="221">Open Arc Campus</option>
+<option data-id="13108" value="1340">Open University - Nawala</option>
+<option data-id="7675" value="1821">Other</option>
+<option data-id="11149" value="2186">Oxford College of Business</option>
+<option data-id="14184" value="222">Pace institute - Pannipitiya</option>
+<option data-id="13453" value="221">PATHE Global Academy</option>
+<option data-id="11122" value="1340">Raffles Design Institute Colombo</option>
+<option data-id="13991" value="1340">Rajarata University of Sri Lanka</option>
+<option data-id="13095" value="872">Rathnavali Balika Vidyalaya - Gampaha</option>
+<option data-id="13116" value="1340">Regent language school Negombo</option>
+<option data-id="13100" value="872">Richmond College Galle</option>
+<option data-id="14188" value="1340">Riyoda Higher Education Centre</option>
+<option data-id="11608" value="221">Royal College</option>
+<option data-id="8722" value="222">Royal Institute of Colombo</option>
+<option data-id="13431" value="2204">Royal International School, Kurunegala</option>
+<option data-id="13087" value="222">Russian centre for science and culture- Colombo</option>
+<option data-id="11127" value="1340">Sabaragamuwa University</option>
+<option data-id="11570" value="221">Saegis  Campus</option>
+<option data-id="14178" value="222">Safetek Global Education Institute</option>
+<option data-id="13408" value="1340">Sakurai Aviation</option>
+<option data-id="13132" value="2175">Sanghamitta Balika Vidyalaya</option>
+<option data-id="14187" value="1340">SEI Campus - Matara</option>
+<option data-id="14186" value="1340">SEI Campus - Nugegoda</option>
+<option data-id="11620" value="2188">Sirimavo Bandaranaike Vidyalaya - Colombo</option>
+<option data-id="13118" value="1340">Skills college of Technology</option>
+<option data-id="7673" value="2188">SLIIT</option>
+<option data-id="13124" value="2188">SLIIT Academy</option>
+<option data-id="11160" value="2204">SLIIT Kandy Campus</option>
+<option data-id="13123" value="2188">SLIIT mathara campus</option>
+<option data-id="13148" value="2188">SLIIT Metropolitan Campus</option>
+<option data-id="13099" value="872">Southlands College Galle</option>
+<option data-id="8864" value="872">Spectrum Institute of Science & Technology</option>
+<option data-id="11108" value="222">Sri Lanka Institute of Advanced Technological Education</option>
+<option data-id="13077" value="222">Sri Lanka Institute of Marketing</option>
+<option data-id="11144" value="2175">Sri Lanka Institute of Marketing (SLIM) - Matara</option>
+<option data-id="13106" value="1340">Sri Lanka Technological Campus</option>
+<option data-id="14175" value="222">Stafford International College Colombo</option>
+<option data-id="13112" value="1340">St. Bridget's College Colombo</option>
+<option data-id="13133" value="2175">Steiner College</option>
+<option data-id="13368" value="221">St. George International Teacher Training Institute</option>
+<option data-id="11619" value="2188">S.Thomas’ College - Mount Lavinia</option>
+<option data-id="13091" value="872">St. Joseph's College Colombo</option>
+<option data-id="13111" value="1340">St. Lawrence College Colombo</option>
+<option data-id="13101" value="872">St. Pauls' girls' school Milagiri</option>
+<option data-id="11611" value="2186">St.Peter’s College</option>
+<option data-id="13105" value="872">St. Thomas College Matale</option>
+<option data-id="11613" value="2175">St. Thomas College, Matara</option>
+<option data-id="13128" value="2188">Sujatha Vidyalaya Matara</option>
+<option data-id="13402" value="222">Sujatha Vidyalaya Nugegoda</option>
+<option data-id="13407" value="1340">TEFL Training institute</option>
+<option data-id="13403" value="222">Thames College Nugegoda</option>
+<option data-id="13410" value="221">The Overseas School Of Colombo</option>
+<option data-id="13114" value="1340">Thurstan College Colombo</option>
+<option data-id="11610" value="2204">Trinity College, Kandy</option>
+<option data-id="13449" value="221">UNEX English Academy</option>
+<option data-id="13086" value="222">Universal College Lanka (UCL)- Colombo</option>
+<option data-id="13134" value="2175">University College of Matara</option>
+<option data-id="7667" value="222">University of Colombo</option>
+<option data-id="11136" value="2204">University of Jaffna</option>
+<option data-id="7668" value="872">University of Kelaniya</option>
+<option data-id="7669" value="1340">University of Moratuwa</option>
+<option data-id="7671" value="2204">University of Peradeniya</option>
+<option data-id="7672" value="2175">University of Ruhuna</option>
+<option data-id="13433" value="2175">University of Ruhuna</option>
+<option data-id="7670" value="221">University of Sri Jayawardenepura</option>
+<option data-id="11119" value="872">Uva Wellassa University</option>
+<option data-id="13083" value="222">Vidura College - Hokandara</option>
+<option data-id="13423" value="2204">Vinex College Of English, Kurunegala</option>
+<option data-id="11605" value="222">Visakha Vidyalaya Colombo</option>
+<option data-id="13990" value="221">Wayamba University of Sri Lanka</option>
+<option data-id="11128" value="222">Wisdom Business Academy</option>
+<option data-id="13411" value="221">Zahira college Colombo</option>
